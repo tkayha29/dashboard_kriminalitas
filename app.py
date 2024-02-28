@@ -227,7 +227,7 @@ with tab1:
     '''
     Pioritas tindak kriminal yang dominan pada masing-masing gender. 
     Bagi laki-laki, pencurian kendaraan menjadi kejahatan kriminal terbanyak, Hal ini bisa terjadi karena beberapa kemungkinan, dimana salah satu kemungkinannya adalah Laki-laki mungkin lebih cenderung menjadi korban pencurian kendaraan karena mereka seringkali memiliki kendaraan yang lebih mahal dan sering melakukan perjalanan malam hari. 
-    Sedangkan perempuan didominasi dalam tindak kriminal kekerasan oleh pasangan. Hal ini bisa terjadi karena beberapa faktor seperti faktor psikologi, pelanggaran antar pasangan, cari perhatian, dan menjaga _image_ (sc. [National Library of Medicine](doi: 10.1891/1946-6560.5.4.359)).                     
+    Sedangkan perempuan didominasi dalam tindak kriminal kekerasan oleh pasangan. Hal ini bisa terjadi karena beberapa faktor seperti faktor psikologi, pelanggaran antar pasangan, cari perhatian, dan menjaga _image_ (sc. [National Library of Medicine](10.1891/1946-6560.5.4.359)).                     
   
     '''
     
