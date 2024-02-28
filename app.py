@@ -331,7 +331,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -419,7 +419,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -504,7 +504,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -590,7 +590,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -676,7 +676,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -762,7 +762,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -848,7 +848,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -934,7 +934,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1020,7 +1020,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1106,7 +1106,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1192,7 +1192,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1278,7 +1278,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1364,7 +1364,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1450,7 +1450,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1536,7 +1536,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1622,7 +1622,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1708,7 +1708,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1794,7 +1794,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1880,7 +1880,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -1966,7 +1966,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2052,7 +2052,7 @@ with tab2:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2155,7 +2155,7 @@ with tab3:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2241,7 +2241,7 @@ with tab3:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2327,7 +2327,7 @@ with tab3:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2413,7 +2413,7 @@ with tab3:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2499,7 +2499,7 @@ with tab3:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2585,7 +2585,7 @@ with tab3:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2687,7 +2687,7 @@ with tab4:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2773,7 +2773,7 @@ with tab4:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
@@ -2859,7 +2859,7 @@ with tab4:
                         sort=alt.EncodingSortField(field='count', op='sum', order='descending')),
                 y=alt.Y('count', axis=alt.Axis(labelFontWeight='bold')),
                 ).properties(
-                title='Distribution of Crime Description based on Male Victims',
+                title='Distribution of Crime Description based on Female Victims',
                 width=600,
                 height=400
                 ).configure(background='rgba(0,0,0,0)').configure_axis(grid=False)
