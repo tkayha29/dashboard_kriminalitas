@@ -53,7 +53,6 @@ with tab1:
     penjelasan, chart = st.columns([2, 1])
 
     with penjelasan:
-        
         '''
         Data dari _Los Angeles Police Department_ menunjukkan bahwa dari tahun 2020 hingga 2023, laki-laki (ditandai warna merah) mendominasi sebagai korban tindak kriminalitas,
         dengan proporsi sebesar 54%, sedangkan wanita (ditandai warna biru) mencapai 37%. Berdasarkan data statistik dari _Bireau of Justice Statistic_, laki-laki lebih sering menjadi korban kekerasan daripada wanita di Amerika Serikat, yang mana menjustifikasi data korban kriminal di Los Angeles.
@@ -226,14 +225,15 @@ with tab1:
         # '''
     
     '''
-    Pioritas tindak kriminal yang dominan pada masing-masing gender.
-    Bagi laki-laki, pencurian kendaraan menjadi kejahatan kriminal terbanyak, sementara bagi perempuan, kekerasan oleh pasangan mendominasi. Hal ini bisa terjadi karena beberapa kemungkinan, dimana salah satu kemungkinannya adalah
-    Laki-laki mungkin lebih cenderung menjadi korban pencurian kendaraan karena mereka seringkali memiliki kendaraan yang lebih mahal dan sering melakukan perjalanan malam hari. Sementara itu, perempuan mungkin lebih rentan menjadi korban kekerasan oleh pasangan karena faktor-faktor hubungan interpersonal atau interpasangan.
+    Pioritas tindak kriminal yang dominan pada masing-masing gender. 
+    Bagi laki-laki, pencurian kendaraan menjadi kejahatan kriminal terbanyak, Hal ini bisa terjadi karena beberapa kemungkinan, dimana salah satu kemungkinannya adalah Laki-laki mungkin lebih cenderung menjadi korban pencurian kendaraan karena mereka seringkali memiliki kendaraan yang lebih mahal dan sering melakukan perjalanan malam hari. 
+    Sedangkan perempuan didominasi dalam tindak kriminal kekerasan oleh pasangan. Hal ini bisa terjadi karena beberapa faktor seperti faktor psikologi, pelanggaran antar pasangan, cari perhatian, dan menjaga _image_ (sc. [National Library of Medicine](doi: 10.1891/1946-6560.5.4.359)).                     
+  
     '''
     
     st.header('Kesimpulan')
     '''
-    Kesimpulan dari data yang disajikan adalah bahwa tindak kriminalitas di Amerika Serikat, khususnya di Los Angeles memiliki dampak yang signifikan, dengan laki-laki dominan sebagai korban dan pelaku, sementara perempuan lebih rentan terhadap kekerasan oleh pasangan. Rentang usia 19-30 tahun merupakan rentang usia dengan jumlah korban terbanyak,
+    Kesimpulan dari data yang disajikan adalah bahwa tindak kriminalitas di Amerika Serikat, khususnya di Los Angeles memiliki dampak yang signifikan, dengan laki-laki dominan sebagai korban, sementara perempuan lebih rentan terhadap kekerasan oleh pasangan. Rentang usia 19-30 tahun merupakan rentang usia dengan jumlah korban terbanyak,
     menunjukkan bahwa masa transisi dari remaja menuju dewasa adalah periode yang rentan terhadap kejahatan. Meskipun ada kesamaan dalam beberapa jenis kejahatan yang dialami baik oleh laki-laki maupun perempuan, terdapat perbedaan dalam prioritas tindak kriminal yang dominan pada masing-masing gender.
     '''
     '''
