@@ -41,7 +41,7 @@ with tab1:
     
     '''
 
-    df1 = pd.read_csv('dataset\Crime_Dataset_Sol-2(0,Mode,Mode).csv')
+    df1 = pd.read_csv('dataset/Crime_Dataset_Sol-2(0,Mode,Mode).csv')
 
     st.header('Jumlah Korban')
 
