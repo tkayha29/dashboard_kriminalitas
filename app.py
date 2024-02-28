@@ -63,7 +63,7 @@ with tab1:
         '''
         '''
         Namun, tidak semua data korban kriminalitas mencatat jenis kelamin, seperti yang ditunjukkan dalam bagan di samping. Hal ini bisa disebabkan oleh beberapa alasan:
-        1. Jenis Kelamin memang tidak diketahui karena beberapa faktor,
+        1. Jenis Kelamin memang tidak diketahui karena adanya faktor eksternal misalnya korban tidak diketahui siapa,
         2. Jenis kelamin sengaja tidak dipublikasikan untuk melindungi privasi keluarga korban atau korban itu sendiri, dan
         3. Ada kemungkinan korban merupakan Non-Binary, yang cukup umum di Amerika Serikat.
         
