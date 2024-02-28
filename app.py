@@ -27,7 +27,7 @@ background: rgba(0,0,0,0);
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.markdown("<h1 style='text-align: center; color: black;'>Disparitas Gender Korban Tindakan Kriminal di Los Angeles</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>Disparitas Korban Tindakan Kriminal di Los Angeles</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: grey;'>By: Alfarabi Muzli</p>", unsafe_allow_html=True)
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(['🏚️ Narasi', '🗺️ By Area', 'ℹ️ By Status', '🧑‍🤝‍🧑 By Descent', '👆 About Me'])
