@@ -4,7 +4,7 @@ import streamlit as st
 import altair as alt
 
 st.set_page_config(
-    page_title="Disparitas Gender Korban Tindakan Kriminal di Los Angeles",
+    page_title="Disparitas Korban Tindakan Kriminal di Los Angeles",
     page_icon=":chart:",
     layout="wide",
     initial_sidebar_state="expanded",                                      
