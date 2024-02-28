@@ -7,8 +7,7 @@ st.set_page_config(st.set_page_config(
     page_title="Disparitas Gender Korban Tindakan Kriminal di Los Angeles",
     page_icon=":chart:",
     layout="wide",
-    initial_sidebar_state="expanded",
-    theme="auto"  # Automatically switch between light and dark mode
+    initial_sidebar_state="expanded",                                      
 ))                    
   
 page_bg_img = f"""
