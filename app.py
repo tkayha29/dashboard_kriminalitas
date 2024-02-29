@@ -55,7 +55,7 @@ with tab1:
     with penjelasan:
         '''
         Data dari _Los Angeles Police Department_ menunjukkan bahwa dari tahun 2020 hingga 2023, laki-laki (ditandai warna merah) mendominasi sebagai korban tindak kriminalitas,
-        dengan proporsi sebesar 54%, sedangkan wanita (ditandai warna biru) mencapai 37%. Berdasarkan data statistik dari _Bireau of Justice Statistic_, laki-laki lebih sering menjadi korban kekerasan daripada wanita di Amerika Serikat, yang mana menjustifikasi data korban kriminal di Los Angeles.
+        dengan proporsi sebesar 54%, sedangkan wanita (ditandai warna biru) mencapai 37%. Berdasarkan data statistik dari _Bireau of Justice Statistic_, laki-laki lebih sering menjadi korban kekerasan daripada wanita di Amerika Serikat, yang mana menjustifikasi data korban kriminal di Los Angeles (sc. [Sex Differences in Crime](https://en.wikipedia.org/wiki/Sex_differences_in_crime)).
         Adapun mengenai pelaku tindak kriminal, mayoritas adalah laki-laki. Pada tahun 2001, misalnya, sekitar 5 juta laki-laki dipenjara, di mana 80% dari mereka dihukum karena kekerasan dan 69% karena pencurian.
         Hal ini mencerminkan pola umum di mana laki-laki memiliki kecenderungan yang lebih tinggi untuk terlibat dalam kekerasan dan kejahatan lainnya daripada wanita.
         Faktor-faktor yang mendasari kesenjangan gender dalam tindak kriminalitas, baik sebagai korban maupun pelaku, melibatkan dinamika sosial, ekonomi, dan budaya yang kompleks.
@@ -226,9 +226,8 @@ with tab1:
     
     '''
     Pioritas tindak kriminal yang dominan pada masing-masing gender. 
-    Bagi laki-laki, pencurian kendaraan menjadi kejahatan kriminal terbanyak, Hal ini bisa terjadi karena mereka seringkali melakukan perjalanan malam hari (sc. [AVIVA Car Insurance](https://www.aviva.co.uk/aviva-edit/your-things-articles/keyless-car-thefts/#:~:text=While%20vehicles%20are%20more%20likely,more%20daring%20during%20the%20day.)). 
-    Sedangkan perempuan didominasi dalam tindak kriminal kekerasan oleh pasangan. Hal ini bisa terjadi karena beberapa faktor seperti faktor psikologi, pelanggaran antar pasangan, cari perhatian, dan menjaga _image_ (sc. [National Library of Medicine](10.1891/1946-6560.5.4.359)).                     
-  
+    Bagi laki-laki, pencurian kendaraan menjadi kejahatan kriminal terbanyak, Hal ini bisa terjadi karena mereka seringkali melakukan perjalanan malam hari (sc. [AVIVA Car Insurance](https://www.aviva.co.uk/aviva-edit/your-things-articles/keyless-car-thefts)).
+    Sedangkan perempuan didominasi dalam tindak kriminal kekerasan oleh pasangan. Hal ini bisa terjadi karena beberapa faktor seperti faktor psikologi, pelanggaran antar pasangan, cari perhatian, dan menjaga _image_ (sc. [National Library of Medicine](10.1891/1946-6560.5.4.359)).
     '''
     
     st.header('Kesimpulan')
@@ -245,6 +244,15 @@ with tab1:
     '''
     Juga memberikan himbauan kepada masyarakat agar selalu berhati-hati agar tidak berpergian atau melakukan perjalanan pada malam hari jika tidak _urgent_, jika terjadi _domistic violence_ terhadap pasangan lebih baik untuk 
     melapor pihak berwenang atau hubungi konseling.
+    '''
+
+    '''
+    Daftar Pustaka
+    1. [LAPD Crime Data 2020 - 2023](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
+    2. [_2023 Index of Economic Freedom_](https://www.heritage.org/index/country/unitedstates)
+    3. [Sex Differences in Crime](https://en.wikipedia.org/wiki/Sex_differences_in_crime)
+    4. [AVIVA Car Insurance](https://www.aviva.co.uk/aviva-edit/your-things-articles/keyless-car-thefts)
+    5. [National Library of Medicine](10.1891/1946-6560.5.4.359)
     '''
 
 with tab2:
