@@ -236,13 +236,7 @@ with tab1:
     menunjukkan bahwa masa transisi dari remaja menuju dewasa adalah periode yang rentan terhadap kejahatan. Meskipun ada kesamaan dalam beberapa jenis kejahatan yang dialami baik oleh laki-laki maupun perempuan, terdapat perbedaan dalam prioritas tindak kriminal yang dominan pada masing-masing gender.
     '''
     '''
-    Berbekal data kriminalitas di Los Angeles, bisa dimanfaatkan sebagai penghindaran tindak kriminalitas dimasa depan dengan cara:
-    1. Dengan meningkatkan akses terhadap pendidikan, pekerjaan, dan kesempatan ekonomi,
-    2. Memberikan pelatihan dan pendidikan terhadap individu yang membutuhkan, dan
-    3. Meningkatkan layanan konseling, bantuan hukum
-    '''
-    '''
-    Juga memberikan himbauan kepada masyarakat agar selalu berhati-hati agar tidak berpergian atau melakukan perjalanan pada malam hari jika tidak _urgent_, jika terjadi _domistic violence_ terhadap pasangan lebih baik untuk 
+    Himbauan kepada masyarakat agar selalu berhati-hati agar tidak berpergian atau melakukan perjalanan pada malam hari jika tidak _urgent_, jika terjadi _domistic violence_ terhadap pasangan lebih baik untuk 
     melapor pihak berwenang atau hubungi konseling.
     '''
 
